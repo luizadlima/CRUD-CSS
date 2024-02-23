@@ -1,28 +1,28 @@
 {
   "pessoas": [
     {
-      "nome": "luiza",
-      "idade": "20",
+      "nome": "Lavanda",
+      "idade": "Pequeno",
       "cpf": "123.456.789-00",
       "id": 1
     },
     {
-      "nome": "Pedro",
-      "idade": "30",
+      "nome": "Hibisco",
+      "idade": "Pequeno",
       "cpf": "111.222.333-44",
-      "id": 4
+      "id": 2
     },
     {
-      "nome": "Tiago",
-      "idade": "70",
+      "nome": "Girassol",
+      "idade": "Médio",
       "cpf": "999.888.777-66",
-      "id": 5
+      "id": 3
     },
     {
-      "nome": "gabriel farias",
-      "idade": "35",
-      "cpf": "666.999.222-76",
-      "id": 6
+      "nome": "Papoula",
+      "idade": "Pequeno",
+      "cpf": "123",
+      "id": 4
     }
   ]
 }
